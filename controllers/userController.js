@@ -25,7 +25,7 @@ export const postLogin = (req, res) => {
 };
 
 export const logout = (req, res) => {
-  //To Do : rogress Log Out
+  //To Do : progress Log Out
   res.redirect(routes.home);
 };
 
